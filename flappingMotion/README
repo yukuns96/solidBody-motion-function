@@ -1,3 +1,5 @@
 Asymmetric flapping motion
 
 This is a simple motion: sinusoidal pitch + sinusoidal heave
+
+Need to modify the corresponding file in Make/
